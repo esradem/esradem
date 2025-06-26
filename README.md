@@ -7,8 +7,6 @@
       <h1>Hi, I'm Esra Demirel! </h1>
       <b>Data Analyst | Visual Storyteller</b><br>
       Hilversum, NL • <br>
-    <b>Data Analyst | Visual Storyteller</b><br>
-Hilversum, NL • <br>
       <blockquote>
       "Brilliant insights happen where curiosity meets data and design." <br>
       </blockquote>
