@@ -9,19 +9,6 @@
       Hilversum, NL • <br>
     <b>Data Analyst | Visual Storyteller</b><br>
 Hilversum, NL • <br>
-<a href="https://raleu.nl/" title="Website" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Website" width="24"/>
-</a>
-<a href="https://www.linkedin.com/in/esrademirel-dataanalyst/" title="LinkedIn" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24"/>
-</a>
-<a href="https://github.com/esradem" title="GitHub" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" style="filter: invert(100);" />
-
-</a>
-<a href="mailto:esrademirel.de@gmail.com" title="Email">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="24"/>
-</a>
       <blockquote>
       "Brilliant insights happen where curiosity meets data and design." <br>
       </blockquote>
