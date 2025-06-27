@@ -10,13 +10,18 @@
       <blockquote>
       "Brilliant insights happen where curiosity meets data and design." <br>
       </blockquote>
+      ## 📫 Let’s connect
+
+- **Email:** esrademirel.de@gmail.com  
+- **LinkedIn:** [esrademirel-dataanalyst](https://www.linkedin.com/in/esrademirel-dataanalyst/)
+- **GitHub:** [esradem](https://github.com/esradem)
     </td>
   </tr>
 </table>
 
 ---
 
-## 🔎 About Me
+## About Me
 
 Hey! I am a data analyst with an unusual journey that blends creativity, design, and a love for numbers.
 
@@ -172,11 +177,7 @@ When I’m not coding or exploring new datasets, you’ll find me creating water
 
 ---
 
-## 📫 Let’s connect
 
-- **Email:** esrademirel.de@gmail.com  
-- **LinkedIn:** [esrademirel-dataanalyst](https://www.linkedin.com/in/esrademirel-dataanalyst/)
-- **GitHub:** [esradem](https://github.com/esradem)
 
 ---
 
