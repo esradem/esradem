@@ -18,8 +18,15 @@
 
 ## 🔎 About Me
 
-Data Analyst with a background in architectural design and Microsoft Azure Data certifications.  
-I love turning raw data into stories 
+Hey! I am a data analyst with an unusual journey that blends creativity, design, and a love for numbers.
+
+I started my career as a landscape architect, where I learned to see patterns in cities, people, and nature. My passion for problem-solving led me to complete a master’s in Architectural Design Computing, where I explored the intersection of technology, design, and spatial data.
+
+Curiosity and a drive to make a bigger impact guided me to the world of data. I earned multiple Microsoft certifications in data engineering and cloud, building a strong foundation in modern data tools and infrastructure. To sharpen my practical skills, I completed the Ironhack Data Analytics Bootcamp, diving deep into statistical analysis, machine learning, and turning raw data into actionable insights.
+
+Today, I combine design thinking with technical know-how to tell stories with data and solve complex challenges.
+
+When I’m not coding or exploring new datasets, you’ll find me creating watercolor and digital illustrations, writing (including a children’s picture book!), or out on the water with my canoe. I also love yoga, which helps me stay grounded and creative.
 - **Tools:**
 
 <a href="https://www.tableau.com/" target="_blank">
