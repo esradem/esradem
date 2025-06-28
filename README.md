@@ -75,39 +75,54 @@ When I’m not coding or exploring new datasets, you’ll find me creating water
   </tr>
 </table>
 
+<div style="display: flex; align-items: flex-start; gap: 32px;">
 
-## Tools & Languages:
+  <!-- Badges in two columns -->
+ <!-- Tools & Languages Section: Side-by-side badges and language card, no lines! -->
+<h3>Tools & Languages:</h3>
 
-<a href="https://www.tableau.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge" alt="Tableau"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge" alt="scikit-learn"/>
-</a>
-<a href="https://jupyter.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=for-the-badge" alt="Jupyter"/>
-</a>
-<a href="https://azure.microsoft.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=fff&style=for-the-badge" alt="Azure"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git"/>
-</a>
-  <a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=fff&style=for-the-badge" alt="Python"/>
-</a>
-<a href="https://www.sql.org/" target="_blank">
-  <img src="https://img.shields.io/badge/SQL-316192?logo=sqlite&logoColor=fff&style=for-the-badge" alt="SQL"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge" alt="Pandas"/>
-</a>
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge" alt="NumPy"/>
-</a>
-
-
----
+<table>
+  <tr>
+    <!-- Left: Badges, arranged in 2 columns using manual line breaks -->
+    <td align="left" valign="top">
+      <a href="https://www.tableau.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge" alt="Tableau"/>
+      </a>
+      <a href="https://scikit-learn.org/" target="_blank">
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge" alt="scikit-learn"/>
+      </a>
+      <br>
+      <a href="https://jupyter.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=for-the-badge" alt="Jupyter"/>
+      </a>
+      <a href="https://azure.microsoft.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=fff&style=for-the-badge" alt="Azure"/>
+      </a>
+      <br>
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git"/>
+      </a>
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=fff&style=for-the-badge" alt="Python"/>
+      </a>
+      <br>
+      <a href="https://www.sql.org/" target="_blank">
+        <img src="https://img.shields.io/badge/SQL-316192?logo=sqlite&logoColor=fff&style=for-the-badge" alt="SQL"/>
+      </a>
+      <a href="https://pandas.pydata.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge" alt="Pandas"/>
+      </a>
+      <br>
+      <a href="https://numpy.org/" target="_blank">
+        <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge" alt="NumPy"/>
+      </a>
+    </td>
+    <!-- Right: Languages card -->
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esradem&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false" height="170" alt="languages graph" />
+    </td>
+  </tr>
+</table>
 
 
 ##  Fun Fact
@@ -117,7 +132,7 @@ When I’m not coding or exploring new datasets, you’ll find me creating water
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esradem&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false" height="150" alt="languages graph" style="margin-right: 16px;" />
+
   <img src="https://github-readme-stats.vercel.app/api?username=esradem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false" height="150" alt="stats graph" style="margin-right: 16px;" />
 
 </p>
