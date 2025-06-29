@@ -131,15 +131,11 @@ When I’m not coding or exploring new datasets, you’ll find me creating water
 - I sometimes sketch out data visualizations by hand before building them in Tableau/PowerBI!
 ---
 
-<p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=esradem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false" height="150" alt="stats graph" style="margin-right: 16px;" />
-
-</p>
-  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=esradem&locale=en&mode=weekly&theme=swift&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=esradem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=esradem&locale=en&mode=weekly&theme=swift&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
 <!-- Profile view counter, badge, etc. -->
 ###
