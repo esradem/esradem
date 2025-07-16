@@ -44,7 +44,7 @@ When I’m not coding or exploring new datasets, you’ll find me creating water
       </a>
     </td>
     <td>
-      <a href="[https://github.com/esradem/Prediction_Bike_Accident_Amsterdam.git]"><b>Predicting Amsterdam Bike Accidents</b></a>  
+      <a href="[https://github.com/esradem/Prediction_Bike_Accident_Amsterdam]"><b>Predicting Amsterdam Bike Accidents</b></a>  
       <a href=""><b>Predicting Amsterdam Bike Accidents</b></a>  
       <br>
       Used Python, DBSCAN & interactive visualizations to map and predict accident hotspots in Amsterdam.
