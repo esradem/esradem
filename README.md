@@ -39,13 +39,13 @@ When I’m not coding or exploring new datasets, you’ll find me creating water
 <table>
   <tr>
     <td>
-      <a href="https://github.com/esradem/Prediction_bike_accident">
+      <a href="https://github.com/esradem/Prediction_Bike_Accident_Amsterdam">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ViZmc3MHlwZTYyaWZva3psMWd0OXg3NXA3ZTV3MmppdGRtbDZxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BwPNTQsO38gqrZ8td8/giphy.gif" width="150">
       </a>
     </td>
     <td>
-      <a href="[https://github.com/esradem/Prediction_Bike_Accident_Amsterdam]"><b>Predicting Amsterdam Bike Accidents</b></a>  
-      <a href=""><b>Predicting Amsterdam Bike Accidents</b></a>  
+      <a href="https://github.com/esradem/Prediction_Bike_Accident_Amsterdam"><b>Predicting Amsterdam Bike Accidents Hotspots</b></a>  
+      <a href=""><b>Predicting Amsterdam Bike Accidents Hotspots</b></a>  
       <br>
       Used Python, DBSCAN & interactive visualizations to map and predict accident hotspots in Amsterdam.
     </td>
