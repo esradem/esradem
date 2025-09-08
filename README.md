@@ -6,7 +6,7 @@
     <td width="50%" align="left" valign="middle">
       <h1>Hi, I'm Esra Demirel! </h1>
       <b>Data Analyst | Visual Storyteller</b><br>
-      Hilversum, NL • <br>
+      Amersfoort, NL • <br>
       <blockquote>
       "Brilliant insights happen where curiosity meets data and design." <br>
       </blockquote>
